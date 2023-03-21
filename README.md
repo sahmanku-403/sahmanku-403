@@ -15,8 +15,7 @@ Greetings! I am Mayank Kumar a 2nd year CSE student who loves to code and passio
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sahmanku-403&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sahmanku-403&icon=6&color=12)](https://visitcount.itsvg.in)
